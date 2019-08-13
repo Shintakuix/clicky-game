@@ -10,7 +10,7 @@ class App extends Component {
     friends,
     clicked: [],
     score: 0,
-    highestscore: 0,
+    highestscore:0,
   };
 
 clicks = id => {
@@ -38,9 +38,9 @@ clicks = id => {
       
     })
     if (this.state.score >= this.state.highestscore) {
-     
-      this.setState ({
-        highestscore:this.state.score
+     console.log("hi")
+    this.setState ({
+        highestscore:this.state.score + 1
       })
     }
 

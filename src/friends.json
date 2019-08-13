@@ -1,62 +1,50 @@
 [
   {
     "id": 1,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-15.jpg",
-    "name": "quill"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-15.jpg"
   },
   {
     "id": 2,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-17.jpg",
-    "name": "blackphanter"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-17.jpg"
   },
   {
     "id": 3,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-12.jpg",
-    "name": "hulk"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-12.jpg"
   },
   {
     "id": 4,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-11.jpg",
-    "name": "scarlet"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-11.jpg"
   },
   {
     "id": 5,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-10.jpg",
-    "name": "spider"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-10.jpg"
   },
   {
     "id": 6,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-9.jpg",
-    "name": "ironman"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-9.jpg"
   },
   {
     "id": 7,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-6.jpg",
-    "name": "blackwidow"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-6.jpg"
   },
   {
     "id": 8,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-7.jpg",
-    "name": "strange"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-7.jpg"
   },
   {
     "id": 9,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-1.jpg",
-    "name": "captain"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-1.jpg"
   },
   {
     "id": 10,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-16.jpg",
-    "name": "weirdguy"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-16.jpg"
   },
   {
     "id": 11,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-8.jpg",
-    "name": "greengirl"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-8.jpg"
   },
   {
     "id": 12,
-    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-14.jpg",
-    "name": "falcon"
+    "image": "https://cdn.mcuexchange.com/wp-content/uploads/2018/04/iw-14.jpg"
   }
 ]
